@@ -1,0 +1,7 @@
+# This is an example task file.
+# Lines starting with '#' are ignored.
+# The format for a task is:
+# 	"name" "message" num-seconds-between-reminders
+
+# Reminder to drink water every 20 minutes (1200 seconds)
+"Water" "Remember to drink water!" 1200
