@@ -1,5 +1,3 @@
-#include <libnotify/notify.h>
-
 #include "notifyutil.h"
 
 NotifyUtil::NotifyUtil(std::string appName){

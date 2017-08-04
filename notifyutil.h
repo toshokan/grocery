@@ -1,6 +1,9 @@
 #ifndef NOTIFY_UTIL_H
 #define NOTIFY_UTIL_H
 
+extern "C" {
+#include <libnotify/notify.h>
+}
 #include <string>
 
 class NotifyUtil{

@@ -2,7 +2,9 @@
 #define FUTIL_H
 
 #include <queue>
+extern "C" {
 #include <sys/inotify.h>
+}
 
 #include "task.h"
 
